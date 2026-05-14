@@ -1,0 +1,14 @@
+{
+  "name": "kb-skill",
+  "owner": {
+    "name": "huangsron",
+    "url": "https://github.com/huangsron"
+  },
+  "plugins": [
+    {
+      "name": "kb-skill",
+      "source": ".",
+      "description": "Obsidian-based knowledge base via MCP. Auto-classified notes, cache-first lookup, cross-AP knowledge sharing."
+    }
+  ]
+}

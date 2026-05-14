@@ -1,0 +1,8 @@
+{
+  "name": "kb-skill",
+  "version": "0.1.0",
+  "description": "Obsidian-based knowledge base via MCP. Auto-classified notes, cache-first lookup, cross-AP knowledge sharing.",
+  "author": {
+    "name": "sron"
+  }
+}
